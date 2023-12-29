@@ -710,11 +710,22 @@ body {
     left: 51px;
 }
 
+.img-group12 {
+    width: 107px;
+    height: 106px;
+}
+
+.ellipse-group12 {
+    width: 48.286px;
+    height: 48.286px;
+}
+
 .group-icon {
-    top: 168px;
-    width: 48.29px;
-    height: 48.29px;
-    object-fit: cover;
+    top: 160px;
+    width: 48.286px;
+    height: 48.286px;
+    background: url(./asset/group-12.jpg) no-repeat center;
+    background-size: cover;
 }
 
 .branding {
@@ -1518,8 +1529,9 @@ body {
 .group-child21 {
     top: 348px;
     left: 509px;
-    width: 230px;
+    width: 40px;
     height: 40px;
+    flex-shrink: 0;
     object-fit: cover;
 }
 
