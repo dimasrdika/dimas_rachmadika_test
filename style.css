@@ -1845,7 +1845,7 @@ body {
     height: 40px;
     top: 0;
     left: 0;
-    background: url(./images/ri_arrow-up-s-line.svg) no-repeat center;
+    background: url(./images/previous.svg) no-repeat center;
     background-size: cover;
     z-index: 161;
     overflow: hidden;
@@ -1857,7 +1857,7 @@ body {
     height: 39px;
     top: 0px;
     left: 191px;
-    background: url(./images/ri_arrow-up-s-line-2.svg) no-repeat center;
+    background: url(./images/next.svg) no-repeat center;
     background-size: cover;
     z-index: 160;
     overflow: hidden;
