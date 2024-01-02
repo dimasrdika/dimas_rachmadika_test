@@ -52,7 +52,7 @@ body {
     height: 34px;
     top: 51px;
     left: 31px;
-    background: url(./asset/star-header.svg) no-repeat center;
+    background: url(./images/star-header.svg) no-repeat center;
     background-size: cover;
     z-index: 119;
 }
@@ -199,7 +199,7 @@ body {
     width: 16.013px;
     height: 16px;
     margin: 26px 0 0 26.967px;
-    background: url(./asset/globe.svg) no-repeat center;
+    background: url(./images/globe.svg) no-repeat center;
     background-size: 100% 100%;
     z-index: 147;
 }
@@ -390,7 +390,7 @@ body {
     height: 29px;
     top: 23px;
     left: 1008px;
-    background: url(./asset/Star\ 2.svg) no-repeat center;
+    background: url(./images/Star\ 2.svg) no-repeat center;
     background-size: cover;
     z-index: 104;
 }
@@ -661,7 +661,7 @@ body {
     width: 216.173px;
     height: 211px;
     margin: 0 0 0 13.011px;
-    background: url(./asset/section-2.png) no-repeat center;
+    background: url(./images/section-2.png) no-repeat center;
     background-size: cover;
     z-index: 95;
 }
@@ -730,7 +730,7 @@ body {
     height: 28.125px;
     top: 304px;
     left: 3.223px;
-    background: url(./asset/Union.svg) no-repeat center;
+    background: url(./images/Union.svg) no-repeat center;
     background-size: cover;
     z-index: 86;
 }
@@ -750,7 +750,7 @@ body {
     top: 0;
     left: 0;
     font-size: 0px;
-    background: url(./asset/Rectangle-20.png) no-repeat center;
+    background: url(./images/Rectangle-20.png) no-repeat center;
     background-size: cover;
     z-index: 72;
 }
@@ -794,7 +794,7 @@ body {
     top: 0;
     left: 624px;
     font-size: 0px;
-    background: url(./asset/Rectangle-21.png) no-repeat center;
+    background: url(./images/Rectangle-21.png) no-repeat center;
     background-size: cover;
     z-index: 74;
 }
@@ -846,7 +846,7 @@ body {
     top: 0;
     left: 0;
     font-size: 0px;
-    background: url(./asset/Rectangle-22.png) no-repeat center;
+    background: url(./images/Rectangle-22.png) no-repeat center;
     background-size: cover;
     z-index: 73;
 }
@@ -890,7 +890,7 @@ body {
     top: 0;
     left: 624px;
     font-size: 0px;
-    background: url(./asset/Rectangle-23.png) no-repeat center;
+    background: url(./images/Rectangle-23.png) no-repeat center;
     background-size: cover;
     z-index: 75;
 }
@@ -1094,7 +1094,6 @@ body {
     height: 48.286px;
     top: 43px;
     left: 51px;
-    background: url(./assets/images/2ee1244f-c53a-45be-9323-f6d194044d8d.png) no-repeat center;
     background-size: cover;
     z-index: 67;
 }
@@ -1136,7 +1135,6 @@ body {
     height: 48.286px;
     top: 43px;
     left: 55px;
-    background: url(./assets/images/b045e223-cdb2-4e69-9b45-7036c9797896.png) no-repeat center;
     background-size: cover;
     z-index: 69;
 }
@@ -1204,7 +1202,7 @@ body {
     height: 60.286px;
     top: 27px;
     left: 51px;
-    background: url(./asset/group-12.jpg) no-repeat center;
+    background: url(./images/group-12.jpg) no-repeat center;
     background-size: cover;
     z-index: 55;
 }
@@ -1251,7 +1249,7 @@ body {
     height: 29px;
     top: 166px;
     left: 0;
-    background: url(./asset/Star\ 2.svg) no-repeat center;
+    background: url(./images/Star\ 2.svg) no-repeat center;
     background-size: cover;
     z-index: 51;
 }
@@ -1278,7 +1276,7 @@ body {
     width: 1440px;
     height: 624px;
     margin: 120px 0 0 0px;
-    background: url(./asset/max_shirko_None_b20aa929-95e1-4cff-81b4-8d0306ac0b3e-2\ 1.png) no-repeat center;
+    background: url(./images/hero-2.png) no-repeat center;
     background-size: cover;
     z-index: 41;
 }
@@ -1450,7 +1448,7 @@ body {
     height: 27.865px;
     top: 12.231px;
     left: 0;
-    background: url(./assets/images/64fbb012-be29-44a5-9a6d-f8a96bb04cc5.png) no-repeat center;
+    background: url(./images/Union.svg) no-repeat center;
     background-size: cover;
     z-index: 44;
 }
@@ -1523,7 +1521,7 @@ body {
     top: 0;
     left: 0;
     font-size: 0px;
-    background: url(./asset/Rectangle-24.png) no-repeat center;
+    background: url(./images/Rectangle-24.png) no-repeat center;
     background-size: cover;
 }
 
@@ -1534,7 +1532,7 @@ body {
     top: 0;
     left: 0;
     font-size: 0px;
-    background: url(./asset/Rectangle-30.png) no-repeat center;
+    background: url(./images/Rectangle-30.png) no-repeat center;
     background-size: cover;
 }
 
@@ -1545,7 +1543,7 @@ body {
     top: 0;
     left: 0;
     font-size: 0px;
-    background: url(./asset/Rectangle-31.png) no-repeat center;
+    background: url(./images/Rectangle-31.png) no-repeat center;
     background-size: cover;
 }
 
@@ -1683,7 +1681,7 @@ body {
     top: 0;
     left: 625px;
     font-size: 0px;
-    background: url(./asset/Rectangle-26.png) no-repeat center;
+    background: url(./images/Rectangle-26.png) no-repeat center;
     background-size: cover;
 }
 
@@ -1694,7 +1692,7 @@ body {
     top: 0;
     left: 625px;
     font-size: 0px;
-    background: url(./asset/Rectangle-26.png) no-repeat center;
+    background: url(./images/Rectangle-26.png) no-repeat center;
     background-size: cover;
 }
 
@@ -1705,7 +1703,7 @@ body {
     top: 0;
     left: 625px;
     font-size: 0px;
-    background: url(./asset/Rectangle-31.png) no-repeat center;
+    background: url(./images/Rectangle-31.png) no-repeat center;
     background-size: cover;
 }
 
@@ -1847,7 +1845,7 @@ body {
     height: 40px;
     top: 0;
     left: 0;
-    background: url(./asset/ri_arrow-up-s-line.svg) no-repeat center;
+    background: url(./images/ri_arrow-up-s-line.svg) no-repeat center;
     background-size: cover;
     z-index: 161;
     overflow: hidden;
@@ -1859,7 +1857,7 @@ body {
     height: 39px;
     top: 0px;
     left: 191px;
-    background: url(./asset/ri_arrow-up-s-line-2.svg) no-repeat center;
+    background: url(./images/ri_arrow-up-s-line-2.svg) no-repeat center;
     background-size: cover;
     z-index: 160;
     overflow: hidden;
@@ -1884,7 +1882,7 @@ body {
     position: relative;
     width: 15px;
     height: 15px;
-    background: url(./asset/Ellipse-2.svg) no-repeat center;
+    background: url(./images/Ellipse-2.svg) no-repeat center;
     background-size: cover;
     z-index: 167;
     border-radius: 50%;
@@ -1895,7 +1893,7 @@ body {
     position: relative;
     width: 15px;
     height: 15px;
-    background: url(./asset/Ellipse-3.svg) no-repeat center;
+    background: url(./images/Ellipse-3.svg) no-repeat center;
     background-size: cover;
     z-index: 168;
     border-radius: 50%;
@@ -1906,7 +1904,7 @@ body {
     position: relative;
     width: 15px;
     height: 15px;
-    background: url(./asset/Ellipse-3.svg) no-repeat center;
+    background: url(./images/Ellipse-3.svg) no-repeat center;
     background-size: cover;
     z-index: 169;
     border-radius: 50%;
@@ -1936,7 +1934,7 @@ body {
     height: 34px;
     top: 51px;
     left: 31px;
-    background: url(./asset/Star\ 1.svg) no-repeat center;
+    background: url(./images/Star\ 1.svg) no-repeat center;
     background-size: cover;
     z-index: 5;
 }
@@ -2116,7 +2114,7 @@ body {
     width: 16px;
     height: 16px;
     margin: 26px 0 0 26px;
-    background: url(./asset/globe-footer.svg) no-repeat center;
+    background: url(./images/globe-footer.svg) no-repeat center;
     background-size: 100% 100%;
     z-index: 32;
 }
@@ -2247,7 +2245,7 @@ body {
     height: 912px;
     top: 0px;
     left: 0px;
-    background: url(./asset/max_shirko_None_b20aa929-95e1-4cff-81b4-8d0306ac0b3e-2\ 2.png) no-repeat center;
+    background: url(./images/hero-1.png) no-repeat center;
     background-size: cover;
     z-index: 97;
 }
