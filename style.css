@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
+
 }
 
 body {
@@ -20,6 +22,7 @@ body {
 .main-container {
     position: relative;
     width: 1440px;
+    height: 5309px;
     margin: 0 auto;
     background: #111111;
     overflow: hidden;
